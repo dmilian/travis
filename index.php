@@ -1,2 +1,2 @@
 <?php
-echo "broken code;
+echo "broken code";
